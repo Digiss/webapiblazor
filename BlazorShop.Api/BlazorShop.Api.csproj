@@ -19,4 +19,8 @@
     <ProjectReference Include="..\BlazorShop.Models\BlazorShop.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Context\camisas\" />
+  </ItemGroup>
+
 </Project>

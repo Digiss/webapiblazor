@@ -13,96 +13,48 @@
       "PackagePath": "staticwebassets\\BlazorShop.Web.styles.css"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Beleza\\Beleza1.png",
-      "PackagePath": "staticwebassets\\Imagens\\Beleza\\Beleza1.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Blusas\\ferrariazul.webp",
+      "PackagePath": "staticwebassets\\Imagens\\Blusas\\ferrariazul.webp"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Beleza\\Beleza2.png",
-      "PackagePath": "staticwebassets\\Imagens\\Beleza\\Beleza2.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Blusas\\mercedes.webp",
+      "PackagePath": "staticwebassets\\Imagens\\Blusas\\mercedes.webp"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Beleza\\Beleza3.png",
-      "PackagePath": "staticwebassets\\Imagens\\Beleza\\Beleza3.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Blusas\\redbull.avif",
+      "PackagePath": "staticwebassets\\Imagens\\Blusas\\redbull.avif"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Beleza\\Beleza4.png",
-      "PackagePath": "staticwebassets\\Imagens\\Beleza\\Beleza4.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\camisas\\ferrari azul.webp",
+      "PackagePath": "staticwebassets\\Imagens\\camisas\\ferrari azul.webp"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Beleza\\Beleza5.png",
-      "PackagePath": "staticwebassets\\Imagens\\Beleza\\Beleza5.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\camisas\\ferrari vermelha1.webp",
+      "PackagePath": "staticwebassets\\Imagens\\camisas\\ferrari vermelha1.webp"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Calcados\\calcado1.png",
-      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado1.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\camisas\\ferrari vermelha2.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\camisas\\ferrari vermelha2.jpg"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Calcados\\calcado2.png",
-      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado2.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\camisas\\mercedes amarela.webp",
+      "PackagePath": "staticwebassets\\Imagens\\camisas\\mercedes amarela.webp"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Calcados\\calcado3.png",
-      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado3.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\camisas\\mercedes branca.webp",
+      "PackagePath": "staticwebassets\\Imagens\\camisas\\mercedes branca.webp"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Calcados\\calcado4.png",
-      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado4.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\camisas\\mercedes preta.webp",
+      "PackagePath": "staticwebassets\\Imagens\\camisas\\mercedes preta.webp"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Calcados\\calcado5.png",
-      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado5.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\camisas\\red bull.webp",
+      "PackagePath": "staticwebassets\\Imagens\\camisas\\red bull.webp"
     },
     {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Calcados\\calcado6.png",
-      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado6.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Eletronicos\\eletronico1.png",
-      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\eletronico1.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Eletronicos\\eletronico2.png",
-      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\eletronico2.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Eletronicos\\eletronico3.png",
-      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\eletronico3.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Eletronicos\\eletronico4.png",
-      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\eletronico4.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Eletronicos\\eletronico5.png",
-      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\eletronico5.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Eletronicos\\tecnologia6.png",
-      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\tecnologia6.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Moveis\\moveis1.png",
-      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis1.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Moveis\\moveis2.png",
-      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis2.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Moveis\\moveis3.png",
-      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis3.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Moveis\\moveis4.png",
-      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis4.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Moveis\\moveis6.png",
-      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis6.png"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\Moveis\\moveis7.png",
-      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis7.png"
+      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Imagens\\camisas\\red bull2.webp",
+      "PackagePath": "staticwebassets\\Imagens\\camisas\\red bull2.webp"
     },
     {
       "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\Spinner-2.gif",
@@ -175,10 +127,6 @@
     {
       "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\js\\CarrinhoCompraFunctions.js",
       "PackagePath": "staticwebassets\\js\\CarrinhoCompraFunctions.js"
-    },
-    {
-      "Id": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorShop.Web.Microsoft.AspNetCore.StaticWebAssets.props",

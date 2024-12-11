@@ -21,3 +21,4 @@ C:\Users\gustavofernandes\Desktop\projetosgit\webapiblazor\BlazorShop.Models\obj
 C:\Users\gustavofernandes\Desktop\projetosgit\webapiblazor\BlazorShop.Models\obj\Debug\net6.0\refint\BlazorShop.Models.dll
 C:\Users\gustavofernandes\Desktop\projetosgit\webapiblazor\BlazorShop.Models\obj\Debug\net6.0\BlazorShop.Models.pdb
 C:\Users\gustavofernandes\Desktop\projetosgit\webapiblazor\BlazorShop.Models\obj\Debug\net6.0\ref\BlazorShop.Models.dll
+C:\Users\gustavofernandes\Desktop\projetosgit\webapiblazor\BlazorShop.Models\obj\Debug\net6.0\BlazorShop.Models.sourcelink.json

@@ -135,3 +135,4 @@ C:\Users\gustavofernandes\Desktop\projetosgit\webapiblazor\BlazorShop.Api\obj\De
 C:\Users\gustavofernandes\Desktop\projetosgit\webapiblazor\BlazorShop.Api\obj\Debug\net6.0\BlazorShop.Api.pdb
 C:\Users\gustavofernandes\Desktop\projetosgit\webapiblazor\BlazorShop.Api\obj\Debug\net6.0\BlazorShop.Api.genruntimeconfig.cache
 C:\Users\gustavofernandes\Desktop\projetosgit\webapiblazor\BlazorShop.Api\obj\Debug\net6.0\ref\BlazorShop.Api.dll
+C:\Users\gustavofernandes\Desktop\projetosgit\webapiblazor\BlazorShop.Api\obj\Debug\net6.0\BlazorShop.Api.sourcelink.json

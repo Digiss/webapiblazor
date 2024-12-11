@@ -19,22 +19,16 @@ public class GerenciaProdutosLocalStorageService : IGerenciaProdutosLocalStorage
 
     public async Task<IEnumerable<ProdutoDto>> GetCollection()
     {
-        return await this.localStorageService.GetItemAsync<IEnumerable<ProdutoDto>>(key) 
-                         ?? await AddCollection();
+        var produtos = await produtoService.GetItens();
+        if (produtos != null)
+        {
+            await localStorageService.SetItemAsync(key, produtos);
+        }
+        return produtos;
     }
 
     public async Task RemoveCollection()
     {
-        await this.localStorageService.RemoveItemAsync(key);
-    }
-
-    private async Task<IEnumerable<ProdutoDto>> AddCollection()
-    {
-        var produtoCollection = await this.produtoService.GetItens();
-        if (produtoCollection != null)
-        {
-            await this.localStorageService.SetItemAsync(key, produtoCollection);
-        }
-        return produtoCollection;
+        await localStorageService.RemoveItemAsync(key);
     }
 }

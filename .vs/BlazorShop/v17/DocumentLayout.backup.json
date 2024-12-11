@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\services\\gerenciaprodutoslocalstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\services\\gerenciaprodutoslocalstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\wwwroot\\blzshopping3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\wwwroot\\blzshopping3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\pages\\produtodetalhes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\pages\\produtodetalhes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\wwwroot\\css\\open-iconic\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\wwwroot\\css\\open-iconic\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\wwwroot\\icon-192.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\wwwroot\\icon-192.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\pages\\catalogo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\pages\\catalogo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\pages\\exibirprodutos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\pages\\exibirprodutos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\pages\\produtosporcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\pages\\produtosporcategoria.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\wwwroot\\js\\carrinhocomprafunctions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\wwwroot\\js\\carrinhocomprafunctions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.api\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.api\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.api\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44E840A-9C6A-4EEC-9E58-3758DD345F70}|BlazorShop.Models\\BlazorShop.Models.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.models\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44E840A-9C6A-4EEC-9E58-3758DD345F70}|BlazorShop.Models\\BlazorShop.Models.csproj|solutionrelative:blazorshop.models\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44E840A-9C6A-4EEC-9E58-3758DD345F70}|BlazorShop.Models\\BlazorShop.Models.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.models\\dtos\\carrinhoitemadicionadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44E840A-9C6A-4EEC-9E58-3758DD345F70}|BlazorShop.Models\\BlazorShop.Models.csproj|solutionrelative:blazorshop.models\\dtos\\carrinhoitemadicionadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.api\\blazorshop.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\blazorshop.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:55:55.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorShop.Web\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAACAHMdx5DguwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-10T18:54:38.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GerenciaProdutosLocalStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Services\\GerenciaProdutosLocalStorageService.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\Services\\GerenciaProdutosLocalStorageService.cs",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Services\\GerenciaProdutosLocalStorageService.cs",
+              "RelativeToolTip": "BlazorShop.Web\\Services\\GerenciaProdutosLocalStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:45:16.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoDetalhes.razor",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Pages\\ProdutoDetalhes.razor",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\Pages\\ProdutoDetalhes.razor",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Pages\\ProdutoDetalhes.razor",
+              "RelativeToolTip": "BlazorShop.Web\\Pages\\ProdutoDetalhes.razor",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwG4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:53:22.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "blzshopping3.jpg - Bitmap [1920x1280, 24 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\blzshopping3.jpg",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\blzshopping3.jpg",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\blzshopping3.jpg - Bitmap [1920x1280, 24 bits, JPG]",
+              "RelativeToolTip": "BlazorShop.Web\\wwwroot\\blzshopping3.jpg - Bitmap [1920x1280, 24 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-10T22:32:10.298Z",
+              "EditorCaption": " - Bitmap [1920x1280, 24 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "BlazorShop.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T18:57:09.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BlazorShop.Web\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAABIAAAAAjuM4FsctwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T18:57:26.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "icon-192.png - PNG [192x192, 8 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\icon-192.png",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\icon-192.png",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\icon-192.png - PNG [192x192, 8 bits, PNG]",
+              "RelativeToolTip": "BlazorShop.Web\\wwwroot\\icon-192.png - PNG [192x192, 8 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-10T22:17:28.622Z",
+              "EditorCaption": " - PNG [192x192, 8 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\css\\open-iconic\\README.md",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\css\\open-iconic\\README.md",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\css\\open-iconic\\README.md",
+              "RelativeToolTip": "BlazorShop.Web\\wwwroot\\css\\open-iconic\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-10T22:18:02.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Repositories\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Repositories\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Repositories\\IProdutoRepository.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Repositories\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:55:37.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:55:27.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Catalogo.razor",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Pages\\Catalogo.razor",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\Pages\\Catalogo.razor",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Pages\\Catalogo.razor",
+              "RelativeToolTip": "BlazorShop.Web\\Pages\\Catalogo.razor",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:53:06.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorShop.Web\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:53:19.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExibirProdutos.razor",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Pages\\ExibirProdutos.razor",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\Pages\\ExibirProdutos.razor",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Pages\\ExibirProdutos.razor",
+              "RelativeToolTip": "BlazorShop.Web\\Pages\\ExibirProdutos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:53:14.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProdutosPorCategoria.razor",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Pages\\ProdutosPorCategoria.razor",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\Pages\\ProdutosPorCategoria.razor",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Pages\\ProdutosPorCategoria.razor",
+              "RelativeToolTip": "BlazorShop.Web\\Pages\\ProdutosPorCategoria.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:58:47.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\App.razor",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\App.razor",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\App.razor",
+              "RelativeToolTip": "BlazorShop.Web\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T18:59:07.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Program.cs",
+              "RelativeToolTip": "BlazorShop.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:59:13.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\appsettings.json",
+              "RelativeToolTip": "BlazorShop.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T20:04:22.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Program.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:59:26.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Entities\\Produto.cs",
+              "RelativeToolTip": "BlazorShop.Api\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:55:43.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Models\\DTOs\\ProdutoDto.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Models\\DTOs\\ProdutoDto.cs",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Models\\DTOs\\ProdutoDto.cs",
+              "RelativeToolTip": "BlazorShop.Models\\DTOs\\ProdutoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:55:20.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarrinhoCompraFunctions.js",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\js\\CarrinhoCompraFunctions.js",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\js\\CarrinhoCompraFunctions.js",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\js\\CarrinhoCompraFunctions.js",
+              "RelativeToolTip": "BlazorShop.Web\\wwwroot\\js\\CarrinhoCompraFunctions.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-10T18:54:30.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CarrinhoItemAdicionaDto.cs",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Models\\DTOs\\CarrinhoItemAdicionaDto.cs",
+              "RelativeDocumentMoniker": "BlazorShop.Models\\DTOs\\CarrinhoItemAdicionaDto.cs",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Models\\DTOs\\CarrinhoItemAdicionaDto.cs",
+              "RelativeToolTip": "BlazorShop.Models\\DTOs\\CarrinhoItemAdicionaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:55:18.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "favicon.ico - Icon [32x32, 32 bits, BMP]",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\favicon.ico - Icon [32x32, 32 bits, BMP]",
+              "RelativeToolTip": "BlazorShop.Web\\wwwroot\\favicon.ico - Icon [32x32, 32 bits, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-12-10T18:54:45.022Z",
+              "EditorCaption": " - Icon [32x32, 32 bits, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BlazorShop.Api",
+              "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\BlazorShop.Api.csproj",
+              "RelativeDocumentMoniker": "BlazorShop.Api\\BlazorShop.Api.csproj",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\BlazorShop.Api.csproj",
+              "RelativeToolTip": "BlazorShop.Api\\BlazorShop.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T18:52:51.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
