@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\wwwroot\\blzshopping3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|solutionrelative:blazorshop.web\\wwwroot\\blzshopping3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE8DD133-F0B9-4E94-8701-24757E8330F2}|BlazorShop.Api\\BlazorShop.Api.csproj|solutionrelative:blazorshop.api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EFAB425-D1FD-4824-AACA-9EE6088F8D26}|BlazorShop.Web\\BlazorShop.Web.csproj|c:\\users\\gustavofernandes\\desktop\\projetosgit\\webapiblazor\\blazorshop.web\\pages\\produtodetalhes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -110,24 +110,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\index.html*",
-              "RelativeToolTip": "BlazorShop.Web\\wwwroot\\index.html*",
+              "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorShop.Web\\wwwroot\\index.html",
               "ViewState": "AgIAAAAAAACAHMdx5DguwBcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-10T18:54:38.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T18:54:38.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GerenciaProdutosLocalStorageService.cs",
               "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\Services\\GerenciaProdutosLocalStorageService.cs",
               "RelativeDocumentMoniker": "BlazorShop.Web\\Services\\GerenciaProdutosLocalStorageService.cs",
@@ -151,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "blzshopping3.jpg - Bitmap [1920x1280, 24 bits, JPG]",
               "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\blzshopping3.jpg",
               "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\blzshopping3.jpg",
@@ -175,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Program.cs",
               "RelativeDocumentMoniker": "BlazorShop.Api\\Program.cs",
@@ -183,24 +182,24 @@
               "RelativeToolTip": "BlazorShop.Api\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T18:59:26.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T18:59:26.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "BlazorShop.Api\\Context\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Api\\Context\\AppDbContext.cs",
               "RelativeToolTip": "BlazorShop.Api\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAWFWV09QOwF4AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T18:55:55.293Z"
+              "WhenOpened": "2024-12-10T18:55:55.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\gustavofernandes\\Desktop\\projetosgit\\webapiblazor\\BlazorShop.Web\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "BlazorShop.Web\\wwwroot\\css\\app.css",
